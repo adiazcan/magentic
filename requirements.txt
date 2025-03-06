@@ -1,0 +1,7 @@
+tiktoken
+openai
+python-dotenv
+autogen-ext[azure]
+autogen-agentchat
+autogen-ext[magentic-one,openai,azure]
+olefile 
